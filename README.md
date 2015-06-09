@@ -18,6 +18,7 @@ $ sudo python app.py
 Just for temporary purpose, We use 'ngrok' in this case.
 
 Download ngrok binary from their site. (On Raspberry Pi only)
+
 $ wget https://dl.ngrok.com/ngrok_2.0.19_linux_arm.zip
 
 $ unzip ngrok_2.0.19_linux_arm.zip
